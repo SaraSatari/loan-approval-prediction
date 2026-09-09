@@ -1,0 +1,19 @@
+Feature,Importance
+EmploymentType_Unemployed,0.33248484
+CreditScore,0.17667754
+EmploymentType_Salaried,0.13541342
+Income,0.081218
+EmploymentType_Self-Employed,0.047033615
+Gender_Male,0.027753146
+LoanAmount,0.020281225
+City_New York,0.019745838
+City_Houston,0.019075269
+Age,0.018447915
+Education_PhD,0.018382747
+YearsExperience,0.017934205
+Education_Masters,0.017298136
+City_Chicago,0.01643287
+Education_High School,0.01614586
+Gender_Female,0.015261981
+Education_Bachelors,0.010474978
+City_San Francisco,0.0099383965
